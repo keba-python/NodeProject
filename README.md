@@ -1,2 +1,2 @@
-# angularJS
+# Node.js project
 coursera-project
